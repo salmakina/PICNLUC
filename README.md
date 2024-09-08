@@ -1,6 +1,6 @@
 # PIC N LUC
 ## Description
-This is a short game created for the TI-84 calculator, currently in development. The game is written in TI-BASIC and is designed to work on a standard TI-84 Plus model. While the game is still incomplete, it allows for a glimpse into the mechanics.
+This is a short game created for the TI-84 calculator, written in TI-Basic, currently in development. It is designed to work on a standard TI-84 Plus model, adn TI-84 Plus CE.
 ## Features
 - The game has story-based gameplay where the players makes different decisions that shape the narrative and affect the outcome of the game, which leads to multiple paths and different endings.
 - These choices are made through various menus on the screen.
